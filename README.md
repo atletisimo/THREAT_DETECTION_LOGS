@@ -1,1 +1,2 @@
 # THREAT_DETECTION_LOGS
+This synthetic dataset contains 6 million log entries designed to simulate network traffic and cybersecurity events. It includes protocols like TCP, UDP, ICMP, HTTP, and HTTPS along with action labels (allowed/blocked), threat classifications (benign, suspicious, malicious), and metadata such as source/destination IPs, user agents, and request paths. This dataset can be used to train machine learning models for intrusion detection systems (IDS), anomaly detection, and threat classification.
