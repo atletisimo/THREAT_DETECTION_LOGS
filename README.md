@@ -19,4 +19,14 @@
 #### детекција на аномалии и
 #### класификација на закани.
 
+### Algorithms Used
+Decision Tree
+
+Random Forest
+
+Logistic Regression
+Naïve Bayes
+K-Nearest Neighbors (KNN)
+Label Propagation (Semi-Supervised Graph-Based)
+Graph Neural Network (GNN, Advanced Graph-Based Model)
 
