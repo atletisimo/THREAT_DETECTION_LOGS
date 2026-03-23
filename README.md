@@ -25,8 +25,24 @@ Decision Tree
 Random Forest
 
 Logistic Regression
+
 Naïve Bayes
+
 K-Nearest Neighbors (KNN)
+
 Label Propagation (Semi-Supervised Graph-Based)
+
 Graph Neural Network (GNN, Advanced Graph-Based Model)
 
+### Label Propagation
+
+
+
+
+### Graph Neural Network (GNN)
+
+
+
+
+
+### Key results 
