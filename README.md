@@ -1,2 +1,7 @@
 # THREAT_DETECTION_LOGS
-This synthetic dataset contains 6 million log entries designed to simulate network traffic and cybersecurity events. It includes protocols like TCP, UDP, ICMP, HTTP, and HTTPS along with action labels (allowed/blocked), threat classifications (benign, suspicious, malicious), and metadata such as source/destination IPs, user agents, and request paths. This dataset can be used to train machine learning models for intrusion detection systems (IDS), anomaly detection, and threat classification.
+Овој синтетички датасет содржи 6 милиони записи во лог, создадени за да симулираат мрежен сообраќај и настани поврзани со сајбер безбедност.
+Вклучува протоколи како:
+TCP, UDP, ICMP, HTTP и HTTPS, заедно со ознаки за акција (allowed/blocked), 
+класификации на закани (benign, suspicious, malicious),
+и метаподатоци како изворни/дестинациски IP адреси, user agents и патеки на барања (request paths). 
+Овој датасет може да се користи за тренирање на модели на машинско учење за системи за детекција на упади (IDS), детекција на аномалии и класификација на закани.
